@@ -1,0 +1,4 @@
+*.jupyterlab-workspace
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
